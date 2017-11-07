@@ -3,10 +3,11 @@
     "attributes"   
   ],
   "tags": [
-    "misp-galaxy:threat-actor=\"APT 30\"",    
+    "misp-galaxy:threat-actor=\"APT 30\"",
+    "!tlp:red"
   ],
   "version": 1,
-  "description": "All attributes from APT30",
+  "description": "All attributes from APT30 without tlp:red",
   "namespace": "apt30",
   "uuid": "5509f9a9-cbc0-4ec8-beae-0b6c8af3eef3"
 }

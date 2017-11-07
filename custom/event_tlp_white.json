@@ -10,4 +10,5 @@
   "version": 1,
   "description": "Event with tpl:whiter tag. if an attribut is tlp white, event inherit from this tag",
   "namespace": "event_tlp_white",
+  "uuid": "d9d227ae-370e-4beb-941e-355974d46057"
 }

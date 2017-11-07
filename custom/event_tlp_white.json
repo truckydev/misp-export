@@ -1,0 +1,13 @@
+
+{
+  "controller": [
+    "events",
+  ],
+  "inherit":true,
+  "tags": [
+    "tlp:white"
+  ],
+  "version": 1,
+  "description": "Event with tpl:whiter tag. if an attribut is tlp white, event inherit from this tag",
+  "namespace": "md5",
+}

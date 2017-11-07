@@ -7,5 +7,6 @@
   ],
   "version": 1,
   "description": "All attributes from APT30",
-  "namespace": "apt30"
+  "namespace": "apt30",
+  "uuid": "5509f9a9-cbc0-4ec8-beae-0b6c8af3eef3"
 }

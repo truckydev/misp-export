@@ -1,0 +1,11 @@
+{
+  "controler": [
+    "attributes   
+  ],
+  "type": [
+    "md5"
+  ],
+  "version": 1,
+  "description": "All attributes with type MD5",
+  "namespace": "md5",
+}

@@ -15,7 +15,7 @@
     
   ],
   "version": 1,
-  "description": "Contains the hash md5, sha1, sha224, sha256, sha384, sha512, sha512/224, sha512/256, tlsh",
+  "description": "Contains all attributes with hash md5, sha1, sha224, sha256, sha384, sha512, sha512/224, sha512/256, tlsh",
   "namespace": "hashs",
   "uuid":"418187b4-b2e1-41e7-8f32-0e9eb10a5d47"
 }

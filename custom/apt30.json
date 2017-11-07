@@ -1,0 +1,11 @@
+{
+  "controler": [
+    "attributes"   
+  ],
+  "tags": [
+    "misp-galaxy:threat-actor=\"APT 30\"",    
+  ],
+  "version": 1,
+  "description": "All attributes from APT30",
+  "namespace": "apt30"
+}
